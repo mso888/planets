@@ -1,2 +1,3 @@
 Mars is the fourth planet from the sun.
 It is between Earth and Jupiter in the solar system.
+This is a planet close to the Kuiper Belt.
